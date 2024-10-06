@@ -1,14 +1,14 @@
 {
   "status": {
-    "appname": "Dhani Loan Guide",
-    "adstatus": 1,
-    "admob_adstatus": 1,
+    "appname": "Pan Pe EMI Loan Calculator",
+    "adstatus": 0,
+    "admob_adstatus": 0,
     "facebook_adstatus": 0
   },
   "admob": {
     "appopen_id": "ca-app-pub-3940256099942544/9257395921",
     "banner_id": "ca-app-pub-3940256099942544/2014213617",
-    "native_id": "/21775744923/example/native2",
+    "native_id": "/21775744923/example/native",
     "interstitial_id": "/21775744923/example/interstitial"
   },
   "facebook": {
@@ -20,7 +20,7 @@
   "frequency_capping": {
     "frequency_banner": "0",
     "frequency_native": "0",
-    "frequency_interstitial": "5",
+    "frequency_interstitial": "0",
     "frequency_Backinterstitial": "0",
     "frequency_affiliate": "0"
   },
@@ -30,33 +30,14 @@
     "extrascreen": "0",
     "interAdDialog": 0,
     "nativebtn_up": 0,
-    "bannerTimer": 1000,
+    "bannerTimer": 100000,
     "nativeclickupgrade": 0,
     "affiliate_url": "null",
     "fbAppID": "1470962580275628",
     "fbClientID": "d6118464cccf48b190e2b97705e5d47f",
-    "collapsizeBanner": 1,
+    "collapsizeBanner": 0,
     "someTimeAgain": 0,
     "bannerAltnativeShow": false
   },
-  "custom_banner": [
-    {
-      "adIcon": "https://lh3.googleusercontent.com/NGnSwlBTxyJagmDl9-RwKVlYHz9et2RZ0PkOYWUwiQzCRdOWo36xDMwCK-h1NNEQ5Q=h512",
-      "adTitle": "LoanCash : EMI Loan Calculator",
-      "adBanner": "https://lh3.googleusercontent.com/2G6FWHQsEQjow_gbDPrYKMTay9mmHM2iwYodZiTC9lr3VNmiEj_WrZLdNLYbapBTUcE=h500",
-      "adBannerIOG": true,
-      "adButtonName": "Install",
-      "adActionURL": "https://play.google.com/store/apps/details?id=com.finance.loancash.gst.fb.loancalculator",
-      "adApporWeb": true
-    },
-    {
-      "adIcon": "https://lh3.googleusercontent.com/y_P7fqu6UQG3XOf2C5CjqiztOfUx-ur10gCWLafjBviVQbdzGlVluYBokX-em33DRw=h512",
-      "adTitle": "PayKash by Play Games",
-      "adBanner": "https://lh3.googleusercontent.com/gmDsyw1cLeTB0355sHs4k9bm95AxN_vfu4Ana-_xWrFPI_eTKl6IvRaz3ta_khrBtgI=h512",
-      "adBannerIOG": true,
-      "adButtonName": "Click Here",
-      "adActionURL": "https://1104.go.mglgamez.com/pregames",
-      "adApporWeb": false
-    }
-  ]
+  "custom_banner": []
 }
