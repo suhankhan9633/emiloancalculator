@@ -21,27 +21,27 @@
   },
   "frequency_capping": {
     "frequency_banner": "0",
-    "frequency_native": "0",
-    "frequency_interstitial": "0",
-    "frequency_Backinterstitial": "0",
+    "frequency_native": "1",
+    "frequency_interstitial": "2",
+    "frequency_Backinterstitial": "3",
     "frequency_affiliate": "0"
   },
   "extra": {
     "privacyPolicy": "https://sites.google.com/view/dhaniloanguide/home",
     "contactUS": "https://forms.gle/xYmqxgq9CjuV8xuM9",
     "extrascreen": "1",
-    "interAdDialog": 1,
+    "interAdDialog": 0,
     "nativebtn_up": 1,
-    "bannerTimer": 1000000,
+    "bannerTimer": 10000,
     "nativeclickupgrade": 1,
     "affiliate_url": "null",
     "userTracking": 0,
     "userTrackingURL": "",
     "fbAppID": "1470962580275628",
     "fbClientID": "d6118464cccf48b190e2b97705e5d47f",
-    "collapsizeBanner": 0,
-    "someTimeAgain": 1,
-    "bannerAltnativeShow": true
+    "collapsizeBanner": 1,
+    "someTimeAgain": 0,
+    "bannerAltnativeShow": false
   },
   "custom_banner": [
     {
