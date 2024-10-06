@@ -1,8 +1,8 @@
 {
   "status": {
     "appname": "Dhani Loan Guide",
-    "adstatus": 0,
-    "admob_adstatus": 0,
+    "adstatus": 1,
+    "admob_adstatus": 1,
     "facebook_adstatus": 0
   },
   "admob": {
