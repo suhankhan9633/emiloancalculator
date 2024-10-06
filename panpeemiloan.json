@@ -20,7 +20,7 @@
   "frequency_capping": {
     "frequency_banner": "0",
     "frequency_native": "0",
-    "frequency_interstitial": "0",
+    "frequency_interstitial": "5",
     "frequency_Backinterstitial": "0",
     "frequency_affiliate": "0"
   },
