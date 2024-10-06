@@ -8,7 +8,7 @@
   "admob": {
     "appopen_id": "ca-app-pub-3940256099942544/9257395921",
     "banner_id": "ca-app-pub-3940256099942544/2014213617",
-    "native_id": "/21775744923/example/native",
+    "native_id": "/21775744923/example/native2",
     "interstitial_id": "/21775744923/example/interstitial"
   },
   "facebook": {
@@ -35,7 +35,7 @@
     "affiliate_url": "null",
     "fbAppID": "1470962580275628",
     "fbClientID": "d6118464cccf48b190e2b97705e5d47f",
-    "collapsizeBanner": 0,
+    "collapsizeBanner": 1,
     "someTimeAgain": 0,
     "bannerAltnativeShow": false
   },
