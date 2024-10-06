@@ -30,7 +30,7 @@
     "extrascreen": "0",
     "interAdDialog": 0,
     "nativebtn_up": 0,
-    "bannerTimer": 100000,
+    "bannerTimer": 1000,
     "nativeclickupgrade": 0,
     "affiliate_url": "null",
     "fbAppID": "1470962580275628",
