@@ -29,7 +29,7 @@
     "contactUS": "https://forms.gle/pMcCuQXygsVMNCp59",
     "extrascreen": "1",
     "interAdDialog": 1,
-    "nativebtn_up": 0,
+    "nativebtn_up": 1,
     "bannerTimer": 100000,
     "nativeclickupgrade": 0,
     "affiliate_url": "null",
