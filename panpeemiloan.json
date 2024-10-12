@@ -28,7 +28,7 @@
     "privacyPolicy": "https://smartappzones.blogspot.com/2024/10/privacy-policy.html",
     "contactUS": "https://forms.gle/pMcCuQXygsVMNCp59",
     "extrascreen": "1",
-    "interAdDialog": 0,
+    "interAdDialog": 1,
     "nativebtn_up": 0,
     "bannerTimer": 100000,
     "nativeclickupgrade": 0,
@@ -38,7 +38,7 @@
     "collapsizeBanner": 0,
     "someTimeAgain": 0,
     "bannerAltnativeShow": false,
-    "enableNotify": ""
+    "enableNotify": "9a5896ab-ec19-47ce-9849-7214cb6da8b0"
   },
   "custom_banner": []
 }
