@@ -19,9 +19,9 @@
   },
   "frequency_capping": {
     "frequency_banner": "0",
-    "frequency_native": "0",
-    "frequency_interstitial": "0",
-    "frequency_Backinterstitial": "0",
+    "frequency_native": "1",
+    "frequency_interstitial": "1",
+    "frequency_Backinterstitial": "2",
     "frequency_affiliate": "0"
   },
   "extra": {
