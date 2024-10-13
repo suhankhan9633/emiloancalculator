@@ -1,9 +1,9 @@
 {
   "status": {
     "appname": "Pan Pe EMI Loan Calculator",
-    "adstatus": 0,
-    "admob_adstatus": 1,
-    "facebook_adstatus": 0
+    "adstatus": 1,
+    "admob_adstatus": 0,
+    "facebook_adstatus": 1
   },
   "admob": {
     "appopen_id": "/21952429235,23112639987/ShreeGrow_com.panpeemiloancalculator_AppOpen",
