@@ -1,7 +1,7 @@
 {
   "status": {
     "appname": "Pan Pe EMI Loan Calculator",
-    "adstatus": 1,
+    "adstatus": 0,
     "admob_adstatus": 1,
     "facebook_adstatus": 0
   },
@@ -12,16 +12,16 @@
     "interstitial_id": "/21952429235,23112639987/ShreeGrow_com.panpeemiloancalculator_Interstitial"
   },
   "facebook": {
-    "appopen_id": "ca-app-pub-3940256099942544/9257395921",
-    "banner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "native_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "interstitial_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    "appopen_id": "/21952429235,23112639987/ShreeGrow_com.panpeemiloancalculator_AppOpen",
+    "banner_id": "",
+    "native_id": "",
+    "interstitial_id": ""
   },
   "frequency_capping": {
     "frequency_banner": "0",
-    "frequency_native": "1",
-    "frequency_interstitial": "1",
-    "frequency_Backinterstitial": "2",
+    "frequency_native": "0",
+    "frequency_interstitial": "0",
+    "frequency_Backinterstitial": "0",
     "frequency_affiliate": "0"
   },
   "extra": {
@@ -32,13 +32,41 @@
     "nativebtn_up": 1,
     "bannerTimer": 100000,
     "nativeclickupgrade": 0,
-    "affiliate_url": "null",
+    "affiliate_url": "https://1106.go.mglgamez.com/pregames",
     "fbAppID": "2123984604669324",
     "fbClientID": "1bf20b6c08bec833dbed51d904f75120",
-    "collapsizeBanner": 0,
+    "collapsizeBanner": 1,
     "someTimeAgain": 0,
-    "bannerAltnativeShow": false,
+    "bannerAltnativeShow": true,
     "enableNotify": "9a5896ab-ec19-47ce-9849-7214cb6da8b0"
   },
-  "custom_banner": []
+  "custom_banner": [
+    {
+      "adIcon": "https://suhankhan9633.github.io/emiloancalculator/adr1.gif",
+      "adTitle": "Play & Win Coins Daily",
+      "adBanner": "https://suhankhan9633.github.io/emiloancalculator/adn1.png",
+      "adBannerIOG": true,
+      "adButtonName": "Play Now",
+      "adActionURL": "https://1106.go.mglgamez.com/pregames",
+      "adApporWeb": false
+    },
+    {
+      "adIcon": "https://suhankhan9633.github.io/emiloancalculator/adr2.gif",
+      "adTitle": "Pool prize is 50,000 coins",
+      "adBanner": "https://suhankhan9633.github.io/emiloancalculator/adn2.png",
+      "adBannerIOG": true,
+      "adButtonName": "Win Now",
+      "adActionURL": "https://1106.go.mglgamez.com/pregames",
+      "adApporWeb": false
+    },
+    {
+      "adIcon": "https://suhankhan9633.github.io/emiloancalculator/adr3.gif",
+      "adTitle": "Aaj Game khela kya?",
+      "adBanner": "https://suhankhan9633.github.io/emiloancalculator/adn3.png",
+      "adBannerIOG": true,
+      "adButtonName": "Play Game",
+      "adActionURL": "https://1106.go.mglgamez.com/pregames",
+      "adApporWeb": false
+    }
+  ]
 }
