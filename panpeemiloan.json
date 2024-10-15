@@ -6,10 +6,10 @@
     "facebook_adstatus": 0
   },
   "admob": {
-    "appopen_id": "/21952429235,23112639987/ShreeGrow_com.panpeemiloancalculator_AppOpen",
-    "banner_id": "/21952429235,23112639987/ShreeGrow_com.panpeemiloancalculator_Banner",
-    "native_id": "/21952429235,23112639987/ShreeGrow_com.panpeemiloancalculator_Native",
-    "interstitial_id": "/21952429235,23112639987/ShreeGrow_com.panpeemiloancalculator_Interstitial"
+    "appopen_id": "ca-app-pub-3940256099942544/9257395921",
+    "banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "native_id": "ca-app-pub-3940256099942544/2247696110",
+    "interstitial_id": "ca-app-pub-3940256099942544/1033173712"
   },
   "facebook": {
     "appopen_id": "",
@@ -18,7 +18,7 @@
     "interstitial_id": ""
   },
   "frequency_capping": {
-    "frequency_banner": "0",
+    "frequency_banner": "1",
     "frequency_native": "1",
     "frequency_interstitial": "1",
     "frequency_Backinterstitial": "1",
@@ -30,7 +30,8 @@
     "extrascreen": "1",
     "interAdDialog": 1,
     "nativebtn_up": 0,
-    "bannerTimer": 5000,
+    "bannerTimer": 50000,
+    "CollabsizebannerTimer": 5000,
     "nativeclickupgrade": 0,
     "affiliate_url": "null",
     "fbAppID": "2123984604669324",
@@ -38,6 +39,7 @@
     "collapsizeBanner": 0,
     "someTimeAgain": 0,
     "bannerAltnativeShow": false,
+    "onresumeOpenad": "0",
     "enableNotify": "9a5896ab-ec19-47ce-9849-7214cb6da8b0"
   },
   "custom_banner": []
