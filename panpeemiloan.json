@@ -7,9 +7,9 @@
   },
   "admob": {
     "appopen_id": "/21952429235,23112639987/ShreeGrow_com.panpeemiloancalculator_AppOpen",
-    "banner_id": "",
-    "native_id": "",
-    "interstitial_id": ""
+    "banner_id": "/21952429235,23112639987/ShreeGrow_com.panpeemiloancalculator_Banner",
+    "native_id": "/21952429235,23112639987/ShreeGrow_com.panpeemiloancalculator_Native",
+    "interstitial_id": "/21952429235,23112639987/ShreeGrow_com.panpeemiloancalculator_Interstitial"
   },
   "facebook": {
     "appopen_id": "/21952429235,23112639987/ShreeGrow_com.panpeemiloancalculator_AppOpen",
