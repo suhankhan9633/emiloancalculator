@@ -13,8 +13,8 @@
   },
   "facebook": {
     "appopen_id": "/21952429235,23112639987/ShreeGrow_com.panpeemiloancalculator_AppOpen",
-    "banner_id": "",
-    "native_id": "",
+    "banner_id": "506303478978010_506307572310934",
+    "native_id": "506303478978010_506307695644255",
     "interstitial_id": "506303478978010_506307622310929"
   },
   "frequency_capping": {
@@ -28,47 +28,19 @@
     "privacyPolicy": "https://smartappzones.blogspot.com/2024/10/privacy-policy.html",
     "contactUS": "https://forms.gle/pMcCuQXygsVMNCp59",
     "extrascreen": "1",
-    "interAdDialog": 0,
-    "nativebtn_up": 1,
-    "bannerTimer": 50000,
+    "interAdDialog": 1,
+    "nativebtn_up": 0,
+    "bannerTimer": 4000,
     "CollabsizebannerTimer": 2000,
     "nativeclickupgrade": 1,
     "affiliate_url": "null",
     "fbAppID": "2123984604669324",
     "fbClientID": "1bf20b6c08bec833dbed51d904f75120",
-    "collapsizeBanner": 1,
+    "collapsizeBanner": 0,
     "someTimeAgain": 0,
     "bannerAltnativeShow": false,
     "onresumeOpenad": "0",
     "enableNotify": "9a5896ab-ec19-47ce-9849-7214cb6da8b0"
   },
-  "custom_banner": [
-    {
-      "adIcon": "https://suhankhan9633.github.io/emiloancalculator/adr2.png",
-      "adTitle": "Play & Win Coins Daily",
-      "adBanner": "https://suhankhan9633.github.io/emiloancalculator/adn1.png",
-      "adBannerIOG": true,
-      "adButtonName": "Play Now",
-      "adActionURL": "https://452.go.mglgamez.com/pregames",
-      "adApporWeb": false
-    },
-    {
-      "adIcon": "https://suhankhan9633.github.io/emiloancalculator/adr2.png",
-      "adTitle": "Pool prize is 50,000 coins",
-      "adBanner": "https://suhankhan9633.github.io/emiloancalculator/adn2.png",
-      "adBannerIOG": true,
-      "adButtonName": "Win Now",
-      "adActionURL": "https://452.go.mglgamez.com/pregames",
-      "adApporWeb": false
-    },
-    {
-      "adIcon": "https://suhankhan9633.github.io/emiloancalculator/adr3.png",
-      "adTitle": "Aaj Game khela kya?",
-      "adBanner": "https://suhankhan9633.github.io/emiloancalculator/adn3.png",
-      "adBannerIOG": true,
-      "adButtonName": "Play Game",
-      "adActionURL": "https://452.go.mglgamez.com/pregames",
-      "adApporWeb": false
-    }
-  ]
+  "custom_banner": []
 }
