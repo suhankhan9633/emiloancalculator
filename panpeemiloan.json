@@ -2,37 +2,37 @@
   "status": {
     "appname": "Pan Pe EMI Loan Calculator",
     "adstatus": 1,
-    "admob_adstatus": 1,
-    "facebook_adstatus": 0
+    "admob_adstatus": 0,
+    "facebook_adstatus": 1
   },
   "admob": {
-    "appopen_id": "ca-app-pub-3940256099942544/9257395921",
-    "banner_id": "ca-app-pub-3940256099942544/6300978111",
-    "native_id": "ca-app-pub-3940256099942544/2247696110",
-    "interstitial_id": "ca-app-pub-3940256099942544/1033173712"
+    "appopen_id": "/21952429235,23112639987/ShreeGrow_com.panpeemiloancalculator_AppOpen",
+    "banner_id": "",
+    "native_id": "",
+    "interstitial_id": ""
   },
   "facebook": {
-    "appopen_id": "",
+    "appopen_id": "/21952429235,23112639987/ShreeGrow_com.panpeemiloancalculator_AppOpen",
     "banner_id": "506303478978010_506307572310934",
     "native_id": "506303478978010_506307695644255",
     "interstitial_id": "506303478978010_506307622310929"
   },
   "frequency_capping": {
     "frequency_banner": "1",
-    "frequency_native": "4",
-    "frequency_interstitial": "3",
-    "frequency_Backinterstitial": "4",
+    "frequency_native": "1",
+    "frequency_interstitial": "2",
+    "frequency_Backinterstitial": "2",
     "frequency_affiliate": "0"
   },
   "extra": {
     "privacyPolicy": "https://smartappzones.blogspot.com/2024/10/privacy-policy.html",
     "contactUS": "https://forms.gle/pMcCuQXygsVMNCp59",
-    "extrascreen": "0",
-    "interAdDialog": 0,
+    "extrascreen": "1",
+    "interAdDialog": 1,
     "nativebtn_up": 0,
     "bannerTimer": 50000,
     "CollabsizebannerTimer": 50000,
-    "nativeclickupgrade": 0,
+    "nativeclickupgrade": 1,
     "affiliate_url": "null",
     "fbAppID": "2123984604669324",
     "fbClientID": "1bf20b6c08bec833dbed51d904f75120",
